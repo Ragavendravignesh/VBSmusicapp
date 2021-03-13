@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Deployed Site Link
+
+Deployed Site Link: [https://vigilant-volhard-30f36d.netlify.app/](https://vigilant-volhard-30f36d.netlify.app/)
+
+### About App
+
+* It display the first 10 results for the searched song, if no song searched it will disply first 10 songs.
+* Create playlist helps to add new playlist. Functionality for adding songs into the playlist was not implemented because of time constraint.
+* Implementing from scratch took me sometime, I couldn't add much styling as I thought because of that. Also i thought of using react-bootstrap which i not did.
+
